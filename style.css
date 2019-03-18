@@ -1,0 +1,25 @@
+@font-face { 
+	font-family: 'papyrus';
+    src: url('papyrus.ttf');
+	
+	font-family: 'comicSans';
+    src: url('comicSans.ttf');
+}
+
+body{
+	margin-left: auto;
+	margin-right: auto;
+	width: 650px; largeur obligatoire pour être centré
+	line-height:1.6;
+	font-size:18px;
+	color: black;
+	padding: 0 10px;
+		
+	}
+	
+h1,h2,h3{
+	line-height:1.3;
+
+	}
+	
+
